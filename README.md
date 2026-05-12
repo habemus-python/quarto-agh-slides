@@ -15,8 +15,10 @@ To generate HTML files for presentation, do `quarto render slides.ipynb --execut
 To convert it to a pdf, open in a browser, select `☰ :: Tools :: PDF Export Mode` and use the browser's print dialog to save a pdf.
 
 ## Quarto templates from other universities
-- [monash.edu (Melbourne, Australia)](https://github.com/quarto-monash)
+- [monash.edu (Melbourne)](https://github.com/quarto-monash)
 - [uu.nl (Utrecht)](https://github.com/UtrechtUniversity/uu-quarto-presentation-template)
+- [ed.ac.uk (Edinburgh)](https://open.ed.ac.uk/how-to-make-a-professionally-sexy-quarto-presentation/)
+- [warwick.ac.uk (Warwick)](https://github.com/warwick-stats-resources/warwickpres)
  
 ## Other AGH presentation templates
 - [templates listed at the official agh.edu.pl page](https://www.agh.edu.pl/en/university/multimedia/presentation-templates)
