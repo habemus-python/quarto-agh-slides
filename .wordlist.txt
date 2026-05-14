@@ -71,3 +71,8 @@ Perkel
 ipynb
 revealjs
 plugin
+Colab
+PyCharm
+Spyder
+etc
+url
