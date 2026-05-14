@@ -33,4 +33,7 @@ jobs:
         run: |
           python -m pip install nbformat nbclient pyyaml ipykernel
       - uses: quarto-dev/quarto-actions/setup@v2
+      - if: runner.os == 'Windows'
+        shell: bash
+        run: echo "QUARTO_PYTHON=python" >> $GITHUB_ENV
       - run: quarto render slides.ipynb --execute --to revealjs
