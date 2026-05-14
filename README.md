@@ -14,9 +14,10 @@ In addition, the sample notebook includes BibTeX-format bibliography catalogue s
 
 ## How to use it?
 
-To use it, grab the [example `.ipynb` file](https://github.com/habemus-python/quarto-agh-slides/blob/main/slides.ipynb) and edit it with your favourite Jupyter notebook tool.
+To use it, grab the [example `.ipynb` file](https://github.com/habemus-python/quarto-agh-slides/blob/main/slides.ipynb) and edit it 
+  with your favourite Jupyter notebook tool.
 
-To generate HTML files for presentation, do `quarto render slides.ipynb --execute --to revealjs`, the output should look like this:
+To generate HTML files for presentation, do `quarto render slides.ipynb --execute --to revealjs`, the output (`slides.html` file) should look like this:
 
 <p align="center">
     <img 
@@ -27,6 +28,9 @@ To generate HTML files for presentation, do `quarto render slides.ipynb --execut
 </p>
 
 To convert it to a pdf, open in a browser, select `☰ :: Tools :: PDF Export Mode` and use the browser's print dialog to save a pdf.
+
+To learn more about Quarto/Revealjs features (e.g., speaker notes, multi-column slides, layout helpers, absolute positioning, animations, backgrounds, videos), 
+  [read the friendly manual](https://quarto.org/docs/presentations/revealjs/).
 
 ## Quarto templates from other universities
 - [monash.edu (Melbourne)](https://github.com/quarto-monash)
