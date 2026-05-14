@@ -70,3 +70,4 @@ Jupyter
 Perkel
 ipynb
 revealjs
+plugin
