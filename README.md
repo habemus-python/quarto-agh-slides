@@ -40,11 +40,14 @@ Forking the repo will additionally help you in setting up [CI workflows](https:/
   [read the friendly manual](https://quarto.org/docs/presentations/revealjs/).
 
 ## <span class="emoji">🏛️</span> Quarto templates from other universities
-- [monash.edu (Melbourne)](https://github.com/quarto-monash)
-- [uu.nl (Utrecht)](https://github.com/UtrechtUniversity/uu-quarto-presentation-template)
-- [ed.ac.uk (Edinburgh)](https://open.ed.ac.uk/how-to-make-a-professionally-sexy-quarto-presentation/)
-- [warwick.ac.uk (Warwick)](https://github.com/warwick-stats-resources/warwickpres)
-- [mq.edu.au (Sydney)](https://github.com/thomas-fung/quarto-mq-revealjs-theme)
+- 🇦🇺 [monash.edu (Melbourne)](https://github.com/quarto-monash)
+- 🇳🇱 [uu.nl (Utrecht)](https://github.com/UtrechtUniversity/uu-quarto-presentation-template)
+- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 [ed.ac.uk (Edinburgh)](https://open.ed.ac.uk/how-to-make-a-professionally-sexy-quarto-presentation/)
+- 🇬🇧 [warwick.ac.uk (Warwick)](https://github.com/warwick-stats-resources/warwickpres)
+- 🇦🇺 [mq.edu.au (Sydney)](https://github.com/thomas-fung/quarto-mq-revealjs-theme)
+- 🇺🇸 [gatech.edu (Atlanta, GA)](https://github.com/evannsmc/quarto-gatech-slides)
+- 🇩🇰 [au.dk (Aarhus)](https://github.com/davidycliao/quarto-revealjs-aarhus)
+- 🇺🇸 [unm.edu (Albuquerque, NM)](https://github.com/Data-Wise/dtslides)
  
 ## <span class="emoji">🗂️</span> Other AGH presentation templates
 - [templates listed at the official agh.edu.pl page](https://www.agh.edu.pl/en/university/multimedia/presentation-templates)

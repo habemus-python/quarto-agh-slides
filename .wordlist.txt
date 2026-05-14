@@ -76,3 +76,6 @@ PyCharm
 Spyder
 etc
 url
+dk
+gatech
+unm
