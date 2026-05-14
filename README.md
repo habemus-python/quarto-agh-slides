@@ -29,7 +29,8 @@ To generate HTML files for presentation, do `quarto render slides.ipynb --execut
 
 To convert it to a pdf, open in a browser, select `☰ :: Tools :: PDF Export Mode` and use the browser's print dialog to save a pdf.
 
-To learn more about Quarto/Revealjs features (e.g., speaker notes, multi-column slides, layout helpers, absolute positioning, animations, backgrounds, videos), 
+To learn more about Quarto/Revealjs features, e.g., speaker notes, multi-column slides, layout helpers, absolute positioning, animations, backgrounds, videos,
+  slide navigation, speaker view, audible accessibility helpers, automatic slide stepping, timing, chalkboard plugin, multiplexing and many more, 
   [read the friendly manual](https://quarto.org/docs/presentations/revealjs/).
 
 ## Quarto templates from other universities
