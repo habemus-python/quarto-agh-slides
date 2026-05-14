@@ -5,8 +5,9 @@
   [visual identity](https://www.agh.edu.pl/en/university/multimedia/graphic-symbol)
   and [logo usage](https://www.agh.edu.pl/en/o-agh/multimedia/znak-graficzny-agh/znak-graficzny-bez-nazwy) guidelines.
 
-<span class="emoji">👩‍💻</span> It allows to&nbsp;tightly couple the code generating all figures and values in the slides with other presentation content
-  enabling you (or&nbsp;others) to recreate everything with a&nbsp;single `quarto render ...` command, ensuring that slide
+<span class="emoji">👩‍💻</span> It allows to&nbsp;tightly couple the code generating all figures and values in the slides with other presentation content.
+It enables you (or&nbsp;others) to recreate all slides, including figures and any in-text dynamic content 
+  with a&nbsp;single `quarto render ...` command, thus ensuring that slide
   contents are by-design in&nbsp;sync with the code, in the spirit of "reproducible manuscripts" approach
   (see,&nbsp;e.g.,&nbsp;[Perkel 2022, Nature](https://doi.org/10.1038/d41586-022-00563-z)).
 
