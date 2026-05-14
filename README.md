@@ -33,7 +33,7 @@ To convert it to a pdf, open in a browser, select `☰ :: Tools :: PDF Export Mo
 - [uu.nl (Utrecht)](https://github.com/UtrechtUniversity/uu-quarto-presentation-template)
 - [ed.ac.uk (Edinburgh)](https://open.ed.ac.uk/how-to-make-a-professionally-sexy-quarto-presentation/)
 - [warwick.ac.uk (Warwick)](https://github.com/warwick-stats-resources/warwickpres)
-- [mq.edu.au (Syndey)](https://github.com/thomas-fung/quarto-mq-revealjs-theme)
+- [mq.edu.au (Sydney)](https://github.com/thomas-fung/quarto-mq-revealjs-theme)
  
 ## Other AGH presentation templates
 - [templates listed at the official agh.edu.pl page](https://www.agh.edu.pl/en/university/multimedia/presentation-templates)
