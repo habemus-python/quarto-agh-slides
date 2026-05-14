@@ -6,7 +6,7 @@ This repo provides a single Jupyter/Python notebook file which can get you start
   and [logo usage](https://www.agh.edu.pl/en/o-agh/multimedia/znak-graficzny-agh/znak-graficzny-bez-nazwy) guidelines.
 It allows to&nbsp;tightly couple the code generating all figures and values in the slides with other presentation content
   enabling you (or&nbsp;others) to recreate everything with a&nbsp;single `quarto render ...` command, ensuring that slide
-  contents are by-desing in&nbsp;sync with the code, in the spirit of "reproducible manuscripts" approach
+  contents are by-design in&nbsp;sync with the code, in the spirit of "reproducible manuscripts" approach
   (see,&nbsp;e.g.,&nbsp;[Perkel 2022, Nature](https://doi.org/10.1038/d41586-022-00563-z)).
 
 In addition, the sample notebook includes BibTeX-format bibliography catalogue set up to automatically
