@@ -9,6 +9,11 @@ It allows to&nbsp;tightly couple the code generating all figures and values in t
   contents are by-desing in&nbsp;sync with the code, in the spirit of "reproducible manuscripts" approach
   (see,&nbsp;e.g.,&nbsp;[Perkel 2022, Nature](https://doi.org/10.1038/d41586-022-00563-z)).
 
+In addition, the sample notebook includes BibTeX-format bibliography catalogue set up to automatically
+  render `[@label]` references as slide footnotes.
+
+## How to use it?
+
 To use it, grab the [example `.ipynb` file](https://github.com/habemus-python/quarto-agh-slides/blob/main/slides.ipynb) and edit it with your favourite Jupyter notebook tool.
 
 To generate HTML files for presentation, do `quarto render slides.ipynb --execute --to revealjs`, the output should look like this:
