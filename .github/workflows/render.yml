@@ -33,4 +33,4 @@ jobs:
         run: |
           python -m pip install nbformat nbclient pyyaml
       - uses: quarto-dev/quarto-actions/setup@v2
-      - run: slides.ipynb --execute --to revealjs
+      - run: quarto render slides.ipynb --execute --to revealjs
