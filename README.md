@@ -15,8 +15,13 @@
 
 ## <span class="emoji">🧭</span> How to use it?
 
-<span class="emoji">📝</span> To use it, grab the [example `.ipynb` file](https://github.com/habemus-python/quarto-agh-slides/blob/main/slides.ipynb) and edit it 
-  with your favourite Jupyter notebook tool.
+<span class="emoji">📝</span> Everything is in a single file, so you can grab the [example `.ipynb` file](https://github.com/habemus-python/quarto-agh-slides/blob/main/slides.ipynb)
+  in any way (downloading the ipynb file, [downloading the repo contents](https://github.com/habemus-python/quarto-agh-slides/archive/refs/heads/main.zip),
+  cloning, [forking](https://github.com/habemus-python/quarto-agh-slides/fork), ...) and edit it with your favourite Jupyter notebook tool 
+  (e.g., [Jupyter lab](https://jupyterlab.readthedocs.io), [VS Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks), 
+  [PyCharm](https://www.jetbrains.com/help/pycharm/jupyter-notebook-support.html), [Colab](https://colab.google), [Spyder](https://docs.spyder-ide.org/current/plugins/notebook.html),&nbsp;...).
+Forking the repo will additionally help you in setting up [CI workflows](https://github.com/habemus-python/quarto-agh-slides/tree/main/.github/workflows) for rendering on different platforms,
+  code linting, url- and spell-checks, etc.
 
 <span class="emoji">🌐</span> To generate HTML files for presentation, do `quarto render slides.ipynb --execute --to revealjs`, the output (`slides.html` file) should look like this:
 
