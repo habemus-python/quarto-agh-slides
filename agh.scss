@@ -1,8 +1,35 @@
 
 /*-- scss:defaults --*/
-$body-bg: #1E1E1E;
-$body-color: #A71930;
-$link-color: #00693C;
+$body-bg: #FFFFFF;
+$body-color: #111111;
+$link-color: #1D65A6;
+
+$presentation-heading-color: #0B3C5D;
+$presentation-font-size-root: 32px;
+$presentation-heading-font: "Times New Roman", serif;
+$font-family-sans-serif: "Times New Roman", serif;
+$font-family-serif: "Times New Roman", serif;
+
+/*-- scss:rules --*/
+.reveal {
+  font-family: "Times New Roman", serif;
+  color: #111111;
+}
+
+.reveal h1,
+.reveal h2,
+.reveal h3 {
+  color: #0B3C5D;
+  font-family: "Times New Roman", serif;
+}
+
+.reveal strong {
+  color: #1D65A6;
+}
+
+.reveal a {
+  color: #1D65A6;
+}
 
 .slide-logo {
   right: 10px !important;
@@ -18,6 +45,19 @@ figure img {
   border-radius: 5px;
 }
 
-div.MathJax_Display {
-  color: #99E8B5;
+div.MathJax_Display,
+.reveal .math.display {
+  color: #0B3C5D;
+}
+
+.reveal table {
+  font-size: 0.85em;
+}
+
+.reveal th {
+  color: #0B3C5D;
+}
+
+.reveal td {
+  color: #111111;
 }
